@@ -4,8 +4,8 @@
 	"description": "Belajar membangun RESTful API menggunakan Hapi untuk [aplikasi catatan sederhana](http://notesapp-v1.dicodingacademy.com/) dari dicoding",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon server.js",
-    "lint": "eslint ./"
+		"start": "nodemon ./src/server.js",
+		"lint": "eslint ./src"
 	},
 	"repository": {
 		"type": "git",
