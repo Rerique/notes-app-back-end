@@ -21,8 +21,10 @@
 	"devDependencies": {
 		"eslint": "^8.31.0",
 		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-import": "^2.26.0",
-		"nodemon": "^2.0.20"
+		"nodemon": "^2.0.20",
+		"prettier": "2.8.1"
 	},
 	"dependencies": {
 		"@hapi/hapi": "^21.1.0"
